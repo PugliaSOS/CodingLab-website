@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="3259px" height="1127px" viewBox="0 0 3259 1127" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>who_arrow_landscape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Landscape" sketch:type="MSArtboardGroup" transform="translate(-763.000000, -496.000000)" stroke-linecap="square" stroke="#01C2F6">
+            <g id="who_arrow_landscape" sketch:type="MSLayerGroup" transform="translate(766.000000, 499.000000)">
+                <path d="M0.5,0.5 C0.5,0.5 159.501175,365.869873 479.148254,410.898132 C696.977172,441.583402 788.510437,304.833191 1122.28259,334.124542 C1632.13266,378.868231 1875.52576,983.234955 2131.12085,939.417664 C2432.31079,887.783936 2193.66651,571.172749 1894.1189,665.318604 C1464.88271,800.224729 1721.99299,1062.09348 2042.85474,1117.84514 C2139.54956,1134.64645 2259.90875,1088.73121 2308.43799,1048.78601 C2441.30908,939.417664 2529.16403,501.763421 2677.55665,365.869886 C2738.1145,310.412811 2979.93865,185.351582 3248.17993,522.365723" id="Line" stroke-width="5" sketch:type="MSShapeGroup"></path>
+                <path d="M3229.88394,519.021505 L3249.94709,528.343347 L3253.76634,507.31275" id="Line" stroke-width="6" sketch:type="MSShapeGroup" transform="translate(3241.825144, 517.828049) rotate(-12.000000) translate(-3241.825144, -517.828049) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
