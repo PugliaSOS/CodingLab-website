@@ -196,42 +196,48 @@
 
 #subarrow-1 {
 	position: absolute;
-	left: 1085px;
-	top: 568px;
+	left: 910px;
+	top: 650px;
 	transform: scaleX(-1) rotate(45deg);
+	color: #00cbac;
 }
 
 #subarrow-2 {
 	position: absolute;
 	left: 2475px;
 	top: 284px;
+	color: #000000;
 }
 
 #subarrow-3 {
 	position: absolute;
-	left: 3180px;
-	top: 660px;
+	left: 2960px;
+	top: 710px;
 	transform: scaleX(-1) rotate(20deg);
+	color: #f7a811;
 }
 
 #subarrow-4 {
 	position: absolute;
 	left: 1170px;
 	top: 1014px;
+	color: #000000;
 }
 
 #subarrow-5 {
 	position: absolute;
-	left: 1940px;
-	top: 1110px;
+	left: 1830px;
+	top: 900px;
 	transform: scaleX(-1) rotate(-110deg);
+	color: #8d5dff;
 }
 
 #subarrow-6 {
 	position: absolute;
-	left: 2210px;
-	top: 690px;
+	left: 1950px;
+	top: 590px;
     transform: scaleX(-1) rotate(-45deg);
+    color: #01c2f6;
 }
 
 /* --------------- POSTIT AND CONTENTS --------------- */
