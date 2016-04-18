@@ -498,6 +498,7 @@
 	width: 358px;
 	height: 115px;
 	color: #000000;
+	font-size: 24px;
 }
 
 #text-4 {
@@ -507,6 +508,7 @@
 	width: 358px;
 	height: 115px;
 	color: #8d5dff;
+	font-size: 24px;
 }
 
 #text-5 {
@@ -516,6 +518,7 @@
 	width: 358px;
 	height: 115px;
 	color: #00cbac;
+	font-size: 24px;
 }
 
 #text-6 {
@@ -525,6 +528,7 @@
 	width: 358px;
 	height: 115px;
 	color: #f7a811;
+	font-size: 24px;
 }
 
 #text-7 {
@@ -533,7 +537,8 @@
 	top: 2171px;
 	width: 358px;
 	height: 115px;
-	color: #8d5dff;	
+	color: #8d5dff;		
+	font-size: 24px;
 }
 
 #text-8 {
@@ -543,6 +548,7 @@
 	width: 358px;
 	height: 115px;
 	color: #000000;
+	font-size: 24px;
 }
 
 #text-9 {
@@ -552,6 +558,7 @@
 	width: 401px;
 	height: 132px;
 	color: #e900ab;
+	font-size: 24px;
 }
 
 #text-10 {
@@ -561,6 +568,7 @@
 	width: 358px;
 	height: 115px;
 	color: #000000;
+	font-size: 24px;
 }
 
 #text-11 {
@@ -570,6 +578,7 @@
 	width: 358px;
 	height: 115px;
 	color: #01c2f6;
+	font-size: 24px;
 }
 
 #text-12 {
@@ -580,6 +589,7 @@
 	height: 150px;
 	font-size: 24px;
 	color: #8d5dff;
+	font-size: 24px;
 }
 
 #text-13 {
@@ -590,6 +600,7 @@
 	height: 150px;
 	font-size: 24px;
 	color: #000000;
+	font-size: 24px;
 }
 
 #text-14 {
@@ -617,6 +628,7 @@
 	left: 3015px;
 	top: 720px;
 	color: #f7a811;
+	font-size: 24px;
 }
 
 #text-17 {
@@ -624,6 +636,7 @@
 	left: 3400px;
 	top: 1000px;
 	color: #01c2f6;
+	font-size: 24px;
 }
 
 #text-18 {
@@ -631,4 +644,5 @@
 	left: 2120px;
 	top: 2750px;
 	color: #00cbac;
+	font-size: 24px;
 }
